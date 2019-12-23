@@ -34,9 +34,8 @@ A collection of popular libraries used in Android development
 <li><a href="https://github.com/robolectric/robolectric">Robolectric</a></li>
 
 ## Architecture
-The app uses MVVM [Model-View-ViewModel] architecture to have a unidirectional flow of data, separation of concern, testability, and a lot more.
+The MVVM [Model-View-ViewModel] architecture to have a unidirectional flow of data, separation of concern, testability, and a lot more.
 
 ![Architecture](https://developer.android.com/topic/libraries/architecture/images/final-architecture.png)
 
-## Dependency Graph 🔪
-The following diagram shows the dependency graph of the app.
+
