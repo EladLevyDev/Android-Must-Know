@@ -1,6 +1,23 @@
 # Android-Must-Know
 A collection of popular libraries used in Android development
 
+
+## UI
+<li><a href="https://developer.android.com/topic/libraries/architecture/navigation/">Navigation</a></li>
+<li><a href="https://developer.android.com/topic/libraries/architecture/navigation/navigation-pass-data">Navigation SafeArgs</a> </li>
+<li><a href="https://material.io/develop/android/docs/getting-started/">Material Design</a></li>
+<li><a href="https://github.com/janishar/PlaceHolderView">Place Holder "Tinder Swipe"</a></li>
+
+## Animation
+<li><a href="https://github.com/lopspower/RxAnimation">RxAnimation</a></li>
+<li><a href="https://proandroiddev.com/complex-ui-animation-on-android-8f7a46f4aec4">Complex Animation</a></li>
+<li><a href="https://github.com/airbnb/lottie-android">Lottie Animation</a></li>
+<li><a href="https://github.com/loopeer/shadow">Shadow</a></li>
+
+## Image loading & handling
+<li><a href="https://github.com/bumptech/glide">Glide</a></li>
+<li><a href="https://github.com/square/picasso">Picasso</a></li>
+
 ## Android Architecture Components
 <li><a href="https://developer.android.com/topic/libraries/architecture">Android Architecture Components</a></li>
 <li><a href="https://developer.android.com/topic/libraries/architecture/viewmodel">ViewModel</a></li>
@@ -26,22 +43,6 @@ A collection of popular libraries used in Android development
 <li><a href="https://github.com/ReactiveX/RxKotlin">RxKotlin</a></li>
 <li><a href="https://developer.android.com/topic/libraries/data-binding">UI - Data Binding</a></li>
 
-## Image loading & handling
-<li><a href="https://github.com/bumptech/glide">Glide</a></li>
-<li><a href="https://github.com/square/picasso">Picasso</a></li>
-
-## UI
-<li><a href="https://developer.android.com/topic/libraries/architecture/navigation/">Navigation</a></li>
-<li><a href="https://developer.android.com/topic/libraries/architecture/navigation/navigation-pass-data">Navigation SafeArgs</a> </li>
-<li><a href="https://material.io/develop/android/docs/getting-started/">Material Design</a></li>
-<li><a href="https://github.com/janishar/PlaceHolderView">Place Holder "Tinder Swipe"</a></li>
-
-
-## Animation
-<li><a href="https://github.com/lopspower/RxAnimation">RxAnimation</a></li>
-<li><a href="https://proandroiddev.com/complex-ui-animation-on-android-8f7a46f4aec4">Complex Animation</a></li>
-<li><a href="https://github.com/airbnb/lottie-android">Lottie Animation</a></li>
-<li><a href="https://github.com/loopeer/shadow">Shadow</a></li>
 
 ## Dependency Injection 
 <li><a href="https://github.com/google/dagger">Dagger 2</a></li>
