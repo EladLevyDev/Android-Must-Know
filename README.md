@@ -13,6 +13,8 @@ A collection of popular libraries used in Android development
 <li><a href="https://square.github.io/retrofit/">Retrofit</a></li>
 <li><a href="https://github.com/square/okhttp">OkHttp</a></li>
 <li><a href="https://github.com/square/moshi">Moshi</a></li>
+<li><a href="https://github.com/amitshekhariitbhu/Fast-Android-Networking">Fast-Android-Networking</a></li>
+
 
 ## Database
 <li><a href="https://developer.android.com/training/data-storage/shared-preferences">Shared Preferences</a></li>
