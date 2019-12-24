@@ -6,19 +6,19 @@ A collection of popular libraries used in Android development
 
 
 ## UI
-<li><a href="https://developer.android.com/guide/navigation/navigation-getting-started">Navigation Component</a></li>
+<li><a href="https://developer.android.com/guide/navigation/navigation-getting-started">Navigation Component</a> - Storyboard for Android</li>
 <li><a href="https://material.io/develop/android/docs/getting-started/">Material Design</a></li>
-<li><a href="https://github.com/janishar/PlaceHolderView">Place Holder "Tinder Swipe"</a></li>
+<li><a href="https://github.com/janishar/PlaceHolderView">Place Holder</a> - Tinder Swipe view </li>
 
 ## Animation
-<li><a href="https://github.com/lopspower/RxAnimation">RxAnimation</a></li>
 <li><a href="https://proandroiddev.com/complex-ui-animation-on-android-8f7a46f4aec4">Complex Animation</a></li>
 <li><a href="https://proandroiddev.com/make-ux-better-with-android-animations-207992d6f98a">Make UX better with Android Animations</a></li>
+<li><a href="https://github.com/lopspower/RxAnimation">RxAnimation</a></li>
 <li><a href="https://github.com/airbnb/lottie-android">Lottie Animation</a></li>
 <li><a href="https://github.com/loopeer/shadow">Shadow</a></li>
 
 
-## Image loading & handling
+## image loading framework
 <li><a href="https://github.com/bumptech/glide">Glide</a></li>
 <li><a href="https://github.com/square/picasso">Picasso</a></li>
 
@@ -27,7 +27,7 @@ A collection of popular libraries used in Android development
 <li><a href="https://developer.android.com/topic/libraries/architecture">Android Architecture Components</a></li>
 <li><a href="https://developer.android.com/topic/libraries/architecture/viewmodel">ViewModel</a></li>
 
-## Reactive programming - Data Binding (Replacement for Thread handling)
+## Reactive programming & Data Binding (Replacement for Asynctask)
 <li><a href="https://kotlinlang.org/docs/reference/coroutines-overview.html">Coroutines</a> - for asynchronous programming and more</li>
 <li><a href="https://developer.android.com/topic/libraries/architecture/livedata">LiveData</a></li>
 <li><a href="https://github.com/ReactiveX/RxJava">RxJava</a></li>
@@ -46,7 +46,6 @@ A collection of popular libraries used in Android development
 <li><a href="https://github.com/orhanobut/hawk">Hawk</a> - Secured shared Preferences</li>
 <li><a href="https://developer.android.com/topic/libraries/architecture/room">RoomDB</a></li>
 <li><a href="https://github.com/realm/realm-java">Realm</a></li>
-
 
 ## Dependency Injection 
 <li><a href="https://github.com/google/dagger">Dagger 2</a></li>
