@@ -35,21 +35,21 @@ Hard -  ***
 <li><a href="https://github.com/square/picasso">Picasso *</a> - A powerful image downloading and caching library for Android</li>
 
 ## Api
-<li><a href="https://square.github.io/retrofit/">Retrofit *</a></li>
-<li><a href="https://github.com/square/okhttp">OkHttp *</a></li>
-<li><a href="https://github.com/square/moshi">Moshi *</a></li>
+<li><a href="https://square.github.io/retrofit/">Retrofit *</a> - A type-safe HTTP client for Android and Java</li>
+<li><a href="https://github.com/square/okhttp">OkHttp *</a> - An HTTP client for Android, Kotlin, and Java</li>
+<li><a href="https://github.com/square/moshi">Moshi *</a> - Moshi is a modern JSON library for Android and Java. It makes it easy to parse JSON into Java objects</li>
 <li><a href="https://github.com/google/gson">Gson *</a> - Serializing and deserializing Java objects from and into JSON</li>
-<li><a href="https://github.com/amitshekhariitbhu/Fast-Android-Networking">Fast-Android-Networking *</a></li>
+<li><a href="https://github.com/amitshekhariitbhu/Fast-Android-Networking">Fast-Android-Networking *</a> - A Complete Fast Android Networking Library that also supports HTTP/2</li>
 
 ## Database
-<li><a href="https://developer.android.com/training/data-storage/shared-preferences">Shared Preferences *</a></li>
+<li><a href="https://developer.android.com/training/data-storage/shared-preferences">Shared Preferences *</a> - Allows activities and applications to keep preferences, in the form of key-value pairs</li>
 <li><a href="https://github.com/orhanobut/hawk">Hawk *</a> - Secured shared Preferences</li>
-<li><a href="https://developer.android.com/topic/libraries/architecture/room">RoomDB **</a></li>
-<li><a href="https://github.com/realm/realm-java">Realm **</a></li>
+<li><a href="https://developer.android.com/topic/libraries/architecture/room">RoomDB **</a> - Room makes it easier to work with SQLiteDatabase objects in your app</li>
+<li><a href="https://github.com/realm/realm-java">Realm **</a> - Realm is a mobile database: a replacement for SQLite & ORMs</li>
 
 ## Dependency Injection 
-<li><a href="https://github.com/google/dagger">Dagger 2 ***</a></li>
-<li><a href="https://github.com/InsertKoinIO/koin">Koin ***</a></li>
+<li><a href="https://github.com/google/dagger">Dagger 2 ***</a> - Fast dependency injector for Android and Java</li>
+<li><a href="https://github.com/InsertKoinIO/koin">Koin ***</a> - Pragmatic lightweight dependency injection framework for Kotlin</li>
 
 
 ## Firebase
@@ -67,8 +67,8 @@ Hard -  ***
 
 ## Testing 🧪
 <li><a href="https://github.com/mockk/mockk">Mockk **</a> - Mockito for Kotlin</li>
-<li><a href="https://github.com/google/truth">Truth **</a></li>
-<li><a href="https://github.com/robolectric/robolectric">Robolectric **</a></li>
+<li><a href="https://github.com/google/truth">Truth **</a> - Fluent assertions for Java and Android</li>
+<li><a href="https://github.com/robolectric/robolectric">Robolectric **</a> - Android Unit Testing Framework</li>
 <li><a href="https://github.com/KasperskyLab/Kaspresso">Kaspresso ***</a> - UiTest framework</li>
 
 
