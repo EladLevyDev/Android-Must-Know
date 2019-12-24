@@ -1,10 +1,6 @@
 # Android-Must-Know
 A collection of popular libraries used in Android development
 
-
-## Kotlin
-<li><a href="https://developer.android.com/kotlin/ktx?gclid=Cj0KCQiA6IHwBRCJARIsALNjViX0l77hL2zOVnGwRtFCsf3nzKRHvLzU4u_wr96ET6c0mw0R5sxcIoUaAohEEALw_wcB">Android KTX</a> - a set of Kotlin extensions </li>
-
 ## Android Architecture Components
 <li><a href="https://developer.android.com/topic/libraries/architecture">Android Architecture Components</a></li>
 <li><a href="https://developer.android.com/topic/libraries/architecture/viewmodel">ViewModel</a></li>
@@ -23,6 +19,7 @@ A collection of popular libraries used in Android development
 <li><a href="https://github.com/realm/realm-java">Realm</a></li>
 
 ## Reactive programming - Data Binding (Replacement for Thread handling)
+<li><a href="https://kotlinlang.org/docs/reference/coroutines-overview.html">Coroutines</a> - for asynchronous programming and more</li>
 <li><a href="https://developer.android.com/topic/libraries/architecture/livedata">LiveData</a></li>
 <li><a href="https://github.com/ReactiveX/RxJava">RxJava</a></li>
 <li><a href="https://github.com/ReactiveX/RxAndroid">RxAndroid</a></li>
@@ -51,6 +48,7 @@ A collection of popular libraries used in Android development
 <li><a href="https://github.com/InsertKoinIO/koin">Koin</a></li>
 
 ## Tools 🛠
+<li><a href="https://developer.android.com/kotlin/ktx?gclid=Cj0KCQiA6IHwBRCJARIsALNjViX0l77hL2zOVnGwRtFCsf3nzKRHvLzU4u_wr96ET6c0mw0R5sxcIoUaAohEEALw_wcB">Android KTX</a> - a set of Kotlin extensions </li>
 <li><a href="https://github.com/facebook/stetho">Stetho</a></li>
 <li><a href="https://github.com/square/leakcanary">Leak Canary</a></li>
 <li><a href="https://github.com/pinterest/ktlint">Ktlint</a></li>
