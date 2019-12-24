@@ -4,9 +4,9 @@ This Git will be updated with new content & useful stuff every week
 
 The libraries are divided by difficulty:
 
-* - Easy <br>
-** - Normal <br>
-*** - Hard
+Easy *   <br>
+Normal **   <br>
+Hard *** 
 
 
 ## Android Architecture Components 
