@@ -2,11 +2,11 @@
 A collection of popular libraries used in Android development <br>
 This Git will be updated with new content & useful stuff every week
 
-The libraries are divided by difficulty:
+The libraries are divided by difficult:
 
-Easy *   <br>
-Normal **   <br>
-Hard *** 
+- * Easy    <br>
+- ** Normal   <br>
+- *** Hard 
 
 
 ## Android Architecture Components 
