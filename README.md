@@ -59,6 +59,8 @@ A collection of popular libraries used in Android development
 <li><a href="https://github.com/mockk/mockk">Mockk</a></li>
 <li><a href="https://github.com/google/truth">Truth</a></li>
 <li><a href="https://github.com/robolectric/robolectric">Robolectric</a></li>
+<li><a href="https://github.com/KasperskyLab/Kaspresso">Kaspresso</a> - UiTest framework</li>
+
 
 ## Architecture
 The MVVM [Model-View-ViewModel] architecture to have a unidirectional flow of data, separation of concern, testability, and a lot more.
