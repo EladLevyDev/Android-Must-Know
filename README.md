@@ -2,10 +2,6 @@
 A collection of popular libraries used in Android development <br>
 This Git will be updated with new content & useful stuff every week
 
-## Firebase
-<li><a href="https://developer.android.com/guide/navigation/navigation-getting-started">Firebase</a> -Quickly develop apps with database, server, push notification, anayltics and more with one library</li>
-
-
 ## UI
 <li><a href="https://developer.android.com/guide/navigation/navigation-getting-started">Navigation Component</a> - Storyboard for Android</li>
 <li><a href="https://material.io/develop/android/docs/getting-started/">Material Design</a></li>
@@ -51,6 +47,11 @@ This Git will be updated with new content & useful stuff every week
 ## Dependency Injection 
 <li><a href="https://github.com/google/dagger">Dagger 2</a></li>
 <li><a href="https://github.com/InsertKoinIO/koin">Koin</a></li>
+
+
+## Firebase
+<li><a href="https://developer.android.com/guide/navigation/navigation-getting-started">Firebase</a> - Quickly develop apps with database, server, push notification, anayltics and more with one library</li>
+
 
 ## Utility
 <li><a href="https://developer.android.com/kotlin/ktx?gclid=Cj0KCQiA6IHwBRCJARIsALNjViX0l77hL2zOVnGwRtFCsf3nzKRHvLzU4u_wr96ET6c0mw0R5sxcIoUaAohEEALw_wcB">Android KTX</a> - set of Kotlin extensions </li>
