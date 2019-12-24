@@ -1,6 +1,9 @@
 # Android-Must-Know
 A collection of popular libraries used in Android development
 
+## Android
+<li><a href="https://developer.android.com/guide/navigation/navigation-getting-started">Firebase in Android</a> helps you quickly develop apps</li>
+
 
 ## UI
 <li><a href="https://developer.android.com/guide/navigation/navigation-getting-started">Navigation Component</a></li>
@@ -11,7 +14,6 @@ A collection of popular libraries used in Android development
 <li><a href="https://github.com/lopspower/RxAnimation">RxAnimation</a></li>
 <li><a href="https://proandroiddev.com/complex-ui-animation-on-android-8f7a46f4aec4">Complex Animation</a></li>
 <li><a href="https://proandroiddev.com/make-ux-better-with-android-animations-207992d6f98a">Make UX better with Android Animations</a></li>
-
 <li><a href="https://github.com/airbnb/lottie-android">Lottie Animation</a></li>
 <li><a href="https://github.com/loopeer/shadow">Shadow</a></li>
 
