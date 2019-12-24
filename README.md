@@ -34,10 +34,12 @@ This Git will be updated with new content & useful stuff every week
 <li><a href="https://github.com/ReactiveX/RxKotlin">RxKotlin</a></li>
 <li><a href="https://developer.android.com/topic/libraries/data-binding">UI - Data Binding</a></li>
 
+
 ## Api
 <li><a href="https://square.github.io/retrofit/">Retrofit</a></li>
 <li><a href="https://github.com/square/okhttp">OkHttp</a></li>
 <li><a href="https://github.com/square/moshi">Moshi</a></li>
+<li><a href="https://github.com/google/gson">Gson</a> library used for serializing and deserializing Java objects from and into JSON</li>
 <li><a href="https://github.com/amitshekhariitbhu/Fast-Android-Networking">Fast-Android-Networking</a></li>
 
 ## Database
@@ -50,10 +52,13 @@ This Git will be updated with new content & useful stuff every week
 <li><a href="https://github.com/google/dagger">Dagger 2</a></li>
 <li><a href="https://github.com/InsertKoinIO/koin">Koin</a></li>
 
-## Tools 🛠
+## Utility
 <li><a href="https://developer.android.com/kotlin/ktx?gclid=Cj0KCQiA6IHwBRCJARIsALNjViX0l77hL2zOVnGwRtFCsf3nzKRHvLzU4u_wr96ET6c0mw0R5sxcIoUaAohEEALw_wcB">Android KTX</a> - a set of Kotlin extensions </li>
-<li><a href="https://github.com/square/leakcanary">Leak Canary</a> Find leaks in your Application</li>
-<li><a href="https://github.com/facebook/stetho">Stetho</a></li>
+<li><a href="http://greenrobot.github.io/EventBus/">EventBus</a> simplifies communication between different parts of your application</li>
+
+## Tools 🛠
+<li><a href="https://github.com/square/leakcanary">Leak Canary</a> Catch memory leaks as they occur</li>
+<li><a href="https://github.com/facebook/stetho">Stetho</a> Debug hierarchy and network from chrome</li>
 
 ## Testing 🧪
 <li><a href="https://github.com/mockk/mockk">Mockk</a> - Mockito for Kotlin</li>
