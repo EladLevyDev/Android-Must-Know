@@ -3,8 +3,7 @@ A collection of popular libraries used in Android development
 
 
 ## UI
-<li><a href="https://developer.android.com/topic/libraries/architecture/navigation/">Navigation</a></li>
-<li><a href="https://developer.android.com/topic/libraries/architecture/navigation/navigation-pass-data">Navigation SafeArgs</a> </li>
+<li><a href="https://developer.android.com/guide/navigation/navigation-getting-started">Navigation Component</a></li>
 <li><a href="https://material.io/develop/android/docs/getting-started/">Material Design</a></li>
 <li><a href="https://github.com/janishar/PlaceHolderView">Place Holder "Tinder Swipe"</a></li>
 
