@@ -2,14 +2,12 @@
 A collection of popular libraries used in Android development
 
 
-## Android Libraries
-
+## Kotlin
 <li><a href="https://developer.android.com/kotlin/ktx?gclid=Cj0KCQiA6IHwBRCJARIsALNjViX0l77hL2zOVnGwRtFCsf3nzKRHvLzU4u_wr96ET6c0mw0R5sxcIoUaAohEEALw_wcB">Android KTX</a> Android KTX is a set of Kotlin extensions </li>
+
+## Android Architecture Components
+<li><a href="https://developer.android.com/topic/libraries/architecture">Android Architecture Components</a></li>
 <li><a href="https://developer.android.com/topic/libraries/architecture/viewmodel">ViewModel</a></li>
-<li><a href="https://developer.android.com/reference/androidx/lifecycle/Transformations">Transformations</a></li>
-<li><a href="https://material.io/develop/android/docs/getting-started/">Material Design</a></li>
-<li><a href="https://github.com/JakeWharton/ThreeTenABP">ThreeTenABP</a></li>
-<li><a href="https://github.com/algolia/algoliasearch-client-android">Algolia Search API Client for Android</a></li>
 
 ## Api network calls
 <li><a href="https://square.github.io/retrofit/">Retrofit</a></li>
@@ -22,19 +20,20 @@ A collection of popular libraries used in Android development
 <li><a href="https://github.com/realm/realm-java">Realm</a></li>
 
 ## Reactive programming - Data Binding (Replacement for Thread handling)
+<li><a href="https://developer.android.com/topic/libraries/architecture/livedata">LiveData</a></li>
 <li><a href="https://github.com/ReactiveX/RxJava">RxJava</a></li>
 <li><a href="https://github.com/ReactiveX/RxAndroid">RxAndroid</a></li>
 <li><a href="https://github.com/ReactiveX/RxKotlin">RxKotlin</a></li>
-<li><a href="https://developer.android.com/topic/libraries/architecture/livedata">LiveData</a></li>
 <li><a href="https://developer.android.com/topic/libraries/data-binding">UI - Data Binding</a></li>
 
-## Image loading & handling most popular libraries
+## Image loading & handling
 <li><a href="https://github.com/bumptech/glide">Glide</a></li>
 <li><a href="https://github.com/square/picasso">Picasso</a></li>
 
-## UI Libraries
+## UI
 <li><a href="https://developer.android.com/topic/libraries/architecture/navigation/">Navigation</a></li>
 <li><a href="https://developer.android.com/topic/libraries/architecture/navigation/navigation-pass-data">Navigation SafeArgs</a> </li>
+<li><a href="https://material.io/develop/android/docs/getting-started/">Material Design</a></li>
 
 ## Animation
 <li><a href="https://github.com/lopspower/RxAnimation">RxAnimation</a></li>
@@ -42,8 +41,7 @@ A collection of popular libraries used in Android development
 <li><a href="https://github.com/airbnb/lottie-android">Lottie Animation</a></li>
 <li><a href="https://github.com/loopeer/shadow">Shadow</a></li>
 
-
-## Dependency Injection Libraries
+## Dependency Injection 
 <li><a href="https://github.com/google/dagger">Dagger 2</a></li>
 <li><a href="https://github.com/InsertKoinIO/koin">Koin</a></li>
 
