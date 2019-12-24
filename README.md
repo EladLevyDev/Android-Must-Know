@@ -70,7 +70,7 @@ The MVVM [Model-View-ViewModel] architecture to have a unidirectional flow of da
 ## Android developer roadmap
 For a personal roadmap build - please contact me
 
-![Architecture](https://developer.android.com/topic/libraries/architecture/images/final-architecture.png)
+![Architecture](https://github.com/EladLevyDev/Android-Must-Know/blob/master/android_roadmap.png)
 
 
 
