@@ -10,8 +10,11 @@ A collection of popular libraries used in Android development
 ## Animation
 <li><a href="https://github.com/lopspower/RxAnimation">RxAnimation</a></li>
 <li><a href="https://proandroiddev.com/complex-ui-animation-on-android-8f7a46f4aec4">Complex Animation</a></li>
+<li><a href="https://proandroiddev.com/make-ux-better-with-android-animations-207992d6f98a">Make UX better with Android Animations</a></li>
+
 <li><a href="https://github.com/airbnb/lottie-android">Lottie Animation</a></li>
 <li><a href="https://github.com/loopeer/shadow">Shadow</a></li>
+
 
 ## Image loading & handling
 <li><a href="https://github.com/bumptech/glide">Glide</a></li>
