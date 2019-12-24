@@ -8,19 +8,19 @@ Hard -  ***
 
 
 ## Android Architecture Components 
-<li><a href="https://developer.android.com/topic/libraries/architecture">Android Architecture Components</a></li>
-<li><a href="https://developer.android.com/topic/libraries/architecture/viewmodel">ViewModel</a></li>
-<li><a href="https://developer.android.com/topic/libraries/architecture/livedata">LiveData</a></li>
+<li><a href="https://developer.android.com/topic/libraries/architecture">Android Architecture Components **</a></li>
+<li><a href="https://developer.android.com/topic/libraries/architecture/viewmodel">ViewModel **</a></li>
+<li><a href="https://developer.android.com/topic/libraries/architecture/livedata">LiveData **</a></li>
 
 ## Reactive programming & Data Binding (Replacement for Asynctask)
-<li><a href="https://kotlinlang.org/docs/reference/coroutines-overview.html">Coroutines</a> - for asynchronous programming and more</li>
-<li><a href="https://github.com/ReactiveX/RxJava">RxJava</a></li>
-<li><a href="https://github.com/ReactiveX/RxAndroid">RxAndroid</a></li>
-<li><a href="https://github.com/ReactiveX/RxKotlin">RxKotlin</a></li>
-<li><a href="https://developer.android.com/topic/libraries/data-binding">UI - Data Binding</a></li>
+<li><a href="https://kotlinlang.org/docs/reference/coroutines-overview.html">Coroutines **</a> - for asynchronous programming and more</li>
+<li><a href="https://github.com/ReactiveX/RxJava">RxJava ***</a></li>
+<li><a href="https://github.com/ReactiveX/RxAndroid">RxAndroid ***</a></li>
+<li><a href="https://github.com/ReactiveX/RxKotlin">RxKotlin ***</a></li>
+<li><a href="https://developer.android.com/topic/libraries/data-binding">UI - Data Binding **</a></li>
 
 ## UI
-<li><a href="https://developer.android.com/guide/navigation/navigation-getting-started">Navigation Component</a> - Storyboard for Android</li>
+<li><a href="https://developer.android.com/guide/navigation/navigation-getting-started">Navigation Component **</a> - Storyboard for Android</li>
 <li><a href="https://material.io/develop/android/docs/getting-started/">Material Design *</a></li>
 <li><a href="https://github.com/janishar/PlaceHolderView">Place Holder *</a> - Tinder Swipe view </li>
 <li><a href="https://github.com/loopeer/shadow">Shadow *</a></li>
