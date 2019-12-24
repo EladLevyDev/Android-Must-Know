@@ -18,22 +18,10 @@ A collection of popular libraries used in Android development
 <li><a href="https://github.com/bumptech/glide">Glide</a></li>
 <li><a href="https://github.com/square/picasso">Picasso</a></li>
 
+
 ## Android Architecture Components
 <li><a href="https://developer.android.com/topic/libraries/architecture">Android Architecture Components</a></li>
 <li><a href="https://developer.android.com/topic/libraries/architecture/viewmodel">ViewModel</a></li>
-
-## Api network calls
-<li><a href="https://square.github.io/retrofit/">Retrofit</a></li>
-<li><a href="https://github.com/square/okhttp">OkHttp</a></li>
-<li><a href="https://github.com/square/moshi">Moshi</a></li>
-<li><a href="https://github.com/amitshekhariitbhu/Fast-Android-Networking">Fast-Android-Networking</a></li>
-
-
-## Database
-<li><a href="https://developer.android.com/training/data-storage/shared-preferences">Shared Preferences</a></li>
-<li><a href="https://github.com/orhanobut/hawk">Hawk</a> - Secured shared Preferences</li>
-<li><a href="https://developer.android.com/topic/libraries/architecture/room">RoomDB</a></li>
-<li><a href="https://github.com/realm/realm-java">Realm</a></li>
 
 ## Reactive programming - Data Binding (Replacement for Thread handling)
 <li><a href="https://kotlinlang.org/docs/reference/coroutines-overview.html">Coroutines</a> - for asynchronous programming and more</li>
@@ -42,6 +30,18 @@ A collection of popular libraries used in Android development
 <li><a href="https://github.com/ReactiveX/RxAndroid">RxAndroid</a></li>
 <li><a href="https://github.com/ReactiveX/RxKotlin">RxKotlin</a></li>
 <li><a href="https://developer.android.com/topic/libraries/data-binding">UI - Data Binding</a></li>
+
+## Api network calls
+<li><a href="https://square.github.io/retrofit/">Retrofit</a></li>
+<li><a href="https://github.com/square/okhttp">OkHttp</a></li>
+<li><a href="https://github.com/square/moshi">Moshi</a></li>
+<li><a href="https://github.com/amitshekhariitbhu/Fast-Android-Networking">Fast-Android-Networking</a></li>
+
+## Database
+<li><a href="https://developer.android.com/training/data-storage/shared-preferences">Shared Preferences</a></li>
+<li><a href="https://github.com/orhanobut/hawk">Hawk</a> - Secured shared Preferences</li>
+<li><a href="https://developer.android.com/topic/libraries/architecture/room">RoomDB</a></li>
+<li><a href="https://github.com/realm/realm-java">Realm</a></li>
 
 
 ## Dependency Injection 
