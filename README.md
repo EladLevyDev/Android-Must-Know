@@ -2,8 +2,8 @@
 A collection of popular libraries used in Android development <br>
 This Git will be updated with new content & useful stuff every week
 
-## Android
-<li><a href="https://developer.android.com/guide/navigation/navigation-getting-started">Firebase in Android</a> - helps you quickly develop apps</li>
+## Firebase
+<li><a href="https://developer.android.com/guide/navigation/navigation-getting-started">Firebase</a> -Quickly develop apps with database, server, push notification, anayltics and more with one library</li>
 
 
 ## UI
