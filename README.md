@@ -2,6 +2,12 @@
 A collection of popular libraries used in Android development <br>
 This Git will be updated with new content & useful stuff every week
 
+The libraries are divided by difficulty:
+
+* - Easy
+** - Normal
+*** - Hard
+
 
 ## Android Architecture Components 
 <li><a href="https://developer.android.com/topic/libraries/architecture">Android Architecture Components</a></li>
@@ -17,9 +23,9 @@ This Git will be updated with new content & useful stuff every week
 
 ## UI
 <li><a href="https://developer.android.com/guide/navigation/navigation-getting-started">Navigation Component</a> - Storyboard for Android</li>
-<li><a href="https://material.io/develop/android/docs/getting-started/">Material Design</a></li>
-<li><a href="https://github.com/janishar/PlaceHolderView">Place Holder</a> - Tinder Swipe view </li>
-<li><a href="https://github.com/loopeer/shadow">Shadow</a></li>
+<li><a href="https://material.io/develop/android/docs/getting-started/">Material Design *</a></li>
+<li><a href="https://github.com/janishar/PlaceHolderView">Place Holder *</a> - Tinder Swipe view </li>
+<li><a href="https://github.com/loopeer/shadow">Shadow *</a></li>
 
 ## Animation
 <li><a href="https://proandroiddev.com/complex-ui-animation-on-android-8f7a46f4aec4">Complex Animation</a></li>
