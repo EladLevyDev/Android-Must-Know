@@ -23,13 +23,13 @@ A collection of popular libraries used in Android development
 <li><a href="https://github.com/square/picasso">Picasso</a></li>
 
 
-## Android Architecture Components
+## Android Architecture Components 
 <li><a href="https://developer.android.com/topic/libraries/architecture">Android Architecture Components</a></li>
 <li><a href="https://developer.android.com/topic/libraries/architecture/viewmodel">ViewModel</a></li>
+<li><a href="https://developer.android.com/topic/libraries/architecture/livedata">LiveData</a></li>
 
 ## Reactive programming & Data Binding (Replacement for Asynctask)
 <li><a href="https://kotlinlang.org/docs/reference/coroutines-overview.html">Coroutines</a> - for asynchronous programming and more</li>
-<li><a href="https://developer.android.com/topic/libraries/architecture/livedata">LiveData</a></li>
 <li><a href="https://github.com/ReactiveX/RxJava">RxJava</a></li>
 <li><a href="https://github.com/ReactiveX/RxAndroid">RxAndroid</a></li>
 <li><a href="https://github.com/ReactiveX/RxKotlin">RxKotlin</a></li>
@@ -53,12 +53,11 @@ A collection of popular libraries used in Android development
 
 ## Tools 🛠
 <li><a href="https://developer.android.com/kotlin/ktx?gclid=Cj0KCQiA6IHwBRCJARIsALNjViX0l77hL2zOVnGwRtFCsf3nzKRHvLzU4u_wr96ET6c0mw0R5sxcIoUaAohEEALw_wcB">Android KTX</a> - a set of Kotlin extensions </li>
+<li><a href="https://github.com/square/leakcanary">Leak Canary</a> Find leaks in your Application</li>
 <li><a href="https://github.com/facebook/stetho">Stetho</a></li>
-<li><a href="https://github.com/square/leakcanary">Leak Canary</a></li>
-<li><a href="https://github.com/pinterest/ktlint">Ktlint</a></li>
 
 ## Testing 🧪
-<li><a href="https://github.com/mockk/mockk">Mockk</a></li>
+<li><a href="https://github.com/mockk/mockk">Mockk</a> - Mockito for Kotlin</li>
 <li><a href="https://github.com/google/truth">Truth</a></li>
 <li><a href="https://github.com/robolectric/robolectric">Robolectric</a></li>
 <li><a href="https://github.com/KasperskyLab/Kaspresso">Kaspresso</a> - UiTest framework</li>
