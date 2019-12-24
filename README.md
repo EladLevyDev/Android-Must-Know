@@ -18,6 +18,7 @@ A collection of popular libraries used in Android development
 
 ## Database
 <li><a href="https://developer.android.com/training/data-storage/shared-preferences">Shared Preferences</a></li>
+<li><a href="https://github.com/orhanobut/hawk">Hawk</a> - Secured shared Preferences</li>
 <li><a href="https://developer.android.com/topic/libraries/architecture/room">RoomDB</a></li>
 <li><a href="https://github.com/realm/realm-java">Realm</a></li>
 
