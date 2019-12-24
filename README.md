@@ -58,7 +58,7 @@ Hard -  ***
 
 
 ## Utility
-<li><a href="https://developer.android.com/kotlin/ktx?gclid=Cj0KCQiA6IHwBRCJARIsALNjViX0l77hL2zOVnGwRtFCsf3nzKRHvLzU4u_wr96ET6c0mw0R5sxcIoUaAohEEALw_wcB">Android KTX</a> - set of Kotlin extensions *</li>
+<li><a href="https://developer.android.com/kotlin/ktx?gclid=Cj0KCQiA6IHwBRCJARIsALNjViX0l77hL2zOVnGwRtFCsf3nzKRHvLzU4u_wr96ET6c0mw0R5sxcIoUaAohEEALw_wcB">Android KTX *</a> - set of Kotlin extensions</li>
 <li><a href="http://greenrobot.github.io/EventBus/">EventBus **</a> - simplifies communication between different parts of your application</li>
 
 ## Tools 🛠
