@@ -2,7 +2,7 @@
 A collection of popular libraries used in Android development <br>
 This Git will be updated with new content & useful stuff every week
 
-The following libraries are divided by difficult:  <br> Easy - *    <br>
+The following libraries are divided by difficult:  <br> <b>Easy<b/> - *    <br>
 Normal  - **    <br>
 Hard -  ***  
 
