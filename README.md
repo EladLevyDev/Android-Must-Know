@@ -9,19 +9,17 @@ A collection of popular libraries used in Android development
 <li><a href="https://developer.android.com/guide/navigation/navigation-getting-started">Navigation Component</a> - Storyboard for Android</li>
 <li><a href="https://material.io/develop/android/docs/getting-started/">Material Design</a></li>
 <li><a href="https://github.com/janishar/PlaceHolderView">Place Holder</a> - Tinder Swipe view </li>
+<li><a href="https://github.com/loopeer/shadow">Shadow</a></li>
 
 ## Animation
 <li><a href="https://proandroiddev.com/complex-ui-animation-on-android-8f7a46f4aec4">Complex Animation</a></li>
 <li><a href="https://proandroiddev.com/make-ux-better-with-android-animations-207992d6f98a">Make UX better with Android Animations</a></li>
 <li><a href="https://github.com/lopspower/RxAnimation">RxAnimation</a></li>
 <li><a href="https://github.com/airbnb/lottie-android">Lottie Animation</a></li>
-<li><a href="https://github.com/loopeer/shadow">Shadow</a></li>
-
 
 ## Image loading framework
 <li><a href="https://github.com/bumptech/glide">Glide</a></li>
 <li><a href="https://github.com/square/picasso">Picasso</a></li>
-
 
 ## Android Architecture Components 
 <li><a href="https://developer.android.com/topic/libraries/architecture">Android Architecture Components</a></li>
