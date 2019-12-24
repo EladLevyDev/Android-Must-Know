@@ -1,5 +1,5 @@
 # Android-Must-Know
-A collection of popular libraries used in Android development
+A collection of popular libraries used in Android development <br>
 This Git will be updated with new content & useful stuff every week
 
 ## Android
