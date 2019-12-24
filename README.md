@@ -2,8 +2,7 @@
 A collection of popular libraries used in Android development
 
 ## Android
-<li><a href="https://developer.android.com/guide/navigation/navigation-getting-started">Firebase in Android</a> helps you quickly develop apps with need for: <br> <space> 
-       server, storage, notification, analytics and more</li>
+<li><a href="https://developer.android.com/guide/navigation/navigation-getting-started">Firebase in Android</a> helps you quickly develop apps</li>
 
 
 ## UI
