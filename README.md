@@ -3,6 +3,8 @@ A collection of popular libraries used in Android development
 
 
 ## Android Libraries
+
+<li><a href="https://developer.android.com/kotlin/ktx?gclid=Cj0KCQiA6IHwBRCJARIsALNjViX0l77hL2zOVnGwRtFCsf3nzKRHvLzU4u_wr96ET6c0mw0R5sxcIoUaAohEEALw_wcB">Android KTX</a> Android KTX is a set of Kotlin extensions </li>
 <li><a href="https://developer.android.com/topic/libraries/architecture/viewmodel">ViewModel</a></li>
 <li><a href="https://developer.android.com/reference/androidx/lifecycle/Transformations">Transformations</a></li>
 <li><a href="https://material.io/develop/android/docs/getting-started/">Material Design</a></li>
