@@ -18,7 +18,7 @@ A collection of popular libraries used in Android development
 <li><a href="https://github.com/loopeer/shadow">Shadow</a></li>
 
 
-## image loading framework
+## Image loading framework
 <li><a href="https://github.com/bumptech/glide">Glide</a></li>
 <li><a href="https://github.com/square/picasso">Picasso</a></li>
 
