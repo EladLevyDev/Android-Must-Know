@@ -4,8 +4,8 @@ This Git will be updated with new content & useful stuff every week
 
 The libraries are divided by difficulty:
 
-* - Easy
-** - Normal
+* - Easy <br>
+** - Normal <br>
 *** - Hard
 
 
