@@ -35,7 +35,7 @@ This Git will be updated with new content & useful stuff every week
 <li><a href="https://square.github.io/retrofit/">Retrofit</a></li>
 <li><a href="https://github.com/square/okhttp">OkHttp</a></li>
 <li><a href="https://github.com/square/moshi">Moshi</a></li>
-<li><a href="https://github.com/google/gson">Gson</a> - library used for serializing and deserializing Java objects from and into JSON</li>
+<li><a href="https://github.com/google/gson">Gson</a> - Serializing and deserializing Java objects from and into JSON</li>
 <li><a href="https://github.com/amitshekhariitbhu/Fast-Android-Networking">Fast-Android-Networking</a></li>
 
 ## Database
