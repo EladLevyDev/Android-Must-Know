@@ -26,51 +26,51 @@ Hard -  ***
 <li><a href="https://github.com/loopeer/shadow">Shadow *</a></li>
 
 ## Animation
-<li><a href="https://proandroiddev.com/complex-ui-animation-on-android-8f7a46f4aec4">Complex Animation</a></li>
-<li><a href="https://proandroiddev.com/make-ux-better-with-android-animations-207992d6f98a">Make UX better with Android Animations</a></li>
-<li><a href="https://github.com/lopspower/RxAnimation">RxAnimation</a></li>
-<li><a href="https://github.com/airbnb/lottie-android">Lottie Animation</a></li>
+<li><a href="https://proandroiddev.com/complex-ui-animation-on-android-8f7a46f4aec4">Complex Animation **</a></li>
+<li><a href="https://proandroiddev.com/make-ux-better-with-android-animations-207992d6f98a">Make UX better with Android Animations **</a></li>
+<li><a href="https://github.com/lopspower/RxAnimation">RxAnimation ***</a></li>
+<li><a href="https://github.com/airbnb/lottie-android">Lottie Animation **</a></li>
 
 ## Image loading framework
-<li><a href="https://github.com/bumptech/glide">Glide</a></li>
-<li><a href="https://github.com/square/picasso">Picasso</a></li>
+<li><a href="https://github.com/bumptech/glide">Glide *</a></li>
+<li><a href="https://github.com/square/picasso">Picasso *</a></li>
 
 ## Api
-<li><a href="https://square.github.io/retrofit/">Retrofit</a></li>
-<li><a href="https://github.com/square/okhttp">OkHttp</a></li>
-<li><a href="https://github.com/square/moshi">Moshi</a></li>
-<li><a href="https://github.com/google/gson">Gson</a> - Serializing and deserializing Java objects from and into JSON</li>
-<li><a href="https://github.com/amitshekhariitbhu/Fast-Android-Networking">Fast-Android-Networking</a></li>
+<li><a href="https://square.github.io/retrofit/">Retrofit *</a></li>
+<li><a href="https://github.com/square/okhttp">OkHttp *</a></li>
+<li><a href="https://github.com/square/moshi">Moshi *</a></li>
+<li><a href="https://github.com/google/gson">Gson *</a> - Serializing and deserializing Java objects from and into JSON</li>
+<li><a href="https://github.com/amitshekhariitbhu/Fast-Android-Networking">Fast-Android-Networking *</a></li>
 
 ## Database
-<li><a href="https://developer.android.com/training/data-storage/shared-preferences">Shared Preferences</a></li>
-<li><a href="https://github.com/orhanobut/hawk">Hawk</a> - Secured shared Preferences</li>
-<li><a href="https://developer.android.com/topic/libraries/architecture/room">RoomDB</a></li>
-<li><a href="https://github.com/realm/realm-java">Realm</a></li>
+<li><a href="https://developer.android.com/training/data-storage/shared-preferences">Shared Preferences *</a></li>
+<li><a href="https://github.com/orhanobut/hawk">Hawk</a> - Secured shared Preferences *</li>
+<li><a href="https://developer.android.com/topic/libraries/architecture/room">RoomDB **</a></li>
+<li><a href="https://github.com/realm/realm-java">Realm **</a></li>
 
 ## Dependency Injection 
-<li><a href="https://github.com/google/dagger">Dagger 2</a></li>
-<li><a href="https://github.com/InsertKoinIO/koin">Koin</a></li>
+<li><a href="https://github.com/google/dagger">Dagger 2 ***</a></li>
+<li><a href="https://github.com/InsertKoinIO/koin">Koin ***</a></li>
 
 
 ## Firebase
-<li><a href="https://developer.android.com/guide/navigation/navigation-getting-started">Firebase</a> - Quickly develop apps with database, server, push notification, anayltics and more with one library</li>
+<li><a href="https://developer.android.com/guide/navigation/navigation-getting-started">Firebase *</a> - Quickly develop apps with database, server, push notification, anayltics and more with one library</li>
 
 
 ## Utility
-<li><a href="https://developer.android.com/kotlin/ktx?gclid=Cj0KCQiA6IHwBRCJARIsALNjViX0l77hL2zOVnGwRtFCsf3nzKRHvLzU4u_wr96ET6c0mw0R5sxcIoUaAohEEALw_wcB">Android KTX</a> - set of Kotlin extensions </li>
-<li><a href="http://greenrobot.github.io/EventBus/">EventBus</a> - simplifies communication between different parts of your application</li>
+<li><a href="https://developer.android.com/kotlin/ktx?gclid=Cj0KCQiA6IHwBRCJARIsALNjViX0l77hL2zOVnGwRtFCsf3nzKRHvLzU4u_wr96ET6c0mw0R5sxcIoUaAohEEALw_wcB">Android KTX</a> - set of Kotlin extensions *</li>
+<li><a href="http://greenrobot.github.io/EventBus/">EventBus **</a> - simplifies communication between different parts of your application</li>
 
 ## Tools 🛠
-<li><a href="https://github.com/square/leakcanary">Leak Canary</a> - Catch memory leaks as they occur</li>
-<li><a href="https://github.com/facebook/stetho">Stetho</a> - Debug hierarchy and network from chrome</li>
-<li><a href="https://github.com/orhanobut/logger">Logger</a> - Simple, pretty and powerful logger for android
+<li><a href="https://github.com/square/leakcanary">Leak Canary *</a> - Catch memory leaks as they occur</li>
+<li><a href="https://github.com/facebook/stetho">Stetho **</a> - Debug hierarchy and network from chrome</li>
+<li><a href="https://github.com/orhanobut/logger">Logger *</a> - Simple, pretty and powerful logger for android
 
 ## Testing 🧪
-<li><a href="https://github.com/mockk/mockk">Mockk</a> - Mockito for Kotlin</li>
-<li><a href="https://github.com/google/truth">Truth</a></li>
-<li><a href="https://github.com/robolectric/robolectric">Robolectric</a></li>
-<li><a href="https://github.com/KasperskyLab/Kaspresso">Kaspresso</a> - UiTest framework</li>
+<li><a href="https://github.com/mockk/mockk">Mockk **</a> - Mockito for Kotlin</li>
+<li><a href="https://github.com/google/truth">Truth **</a></li>
+<li><a href="https://github.com/robolectric/robolectric">Robolectric **</a></li>
+<li><a href="https://github.com/KasperskyLab/Kaspresso">Kaspresso ***</a> - UiTest framework</li>
 
 
 ## Architecture
