@@ -8,7 +8,7 @@ Hard -  ***
 
 
 ## Android Architecture Components 
-<li><a href="https://developer.android.com/topic/libraries/architecture">Android Architecture Components **</a> - Collection of libraries that help you design robust, testable, and maintainable apps</li>
+<li><a href="https://developer.android.com/topic/libraries/architecture">Android Architecture Components **</a> - Collection of libraries that help you design testable and maintainable apps</li>
 <li><a href="https://developer.android.com/topic/libraries/architecture/viewmodel">ViewModel **</a> - Designed to store and manage UI-related data in a lifecycle conscious way.</li>
 <li><a href="https://developer.android.com/topic/libraries/architecture/livedata">LiveData **</a> - Observable data holder class</li>
 
