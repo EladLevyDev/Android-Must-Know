@@ -1,5 +1,6 @@
 # Android-Must-Know
 A collection of popular libraries used in Android development
+This Git will be updated with new content & useful stuff every week
 
 ## Android
 <li><a href="https://developer.android.com/guide/navigation/navigation-getting-started">Firebase in Android</a> helps you quickly develop apps</li>
@@ -65,5 +66,8 @@ A collection of popular libraries used in Android development
 The MVVM [Model-View-ViewModel] architecture to have a unidirectional flow of data, separation of concern, testability, and a lot more.
 
 ![Architecture](https://developer.android.com/topic/libraries/architecture/images/final-architecture.png)
+
+## Android developer roadmap
+
 
 
