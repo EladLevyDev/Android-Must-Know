@@ -33,7 +33,7 @@ A collection of popular libraries used in Android development
 <li><a href="https://github.com/ReactiveX/RxKotlin">RxKotlin</a></li>
 <li><a href="https://developer.android.com/topic/libraries/data-binding">UI - Data Binding</a></li>
 
-## Api network calls
+## Api
 <li><a href="https://square.github.io/retrofit/">Retrofit</a></li>
 <li><a href="https://github.com/square/okhttp">OkHttp</a></li>
 <li><a href="https://github.com/square/moshi">Moshi</a></li>
