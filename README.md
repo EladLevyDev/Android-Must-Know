@@ -22,7 +22,7 @@ Hard -  ***
 ## UI
 <li><a href="https://developer.android.com/guide/navigation/navigation-getting-started">Navigation Component **</a> - Storyboard for Android</li>
 <li><a href="https://material.io/develop/android/docs/getting-started/">Material Design *</a> - Build beautiful, usable products using Material Components for Android</li>
-<li><a href="https://github.com/janishar/PlaceHolderView">Place Holder *</a> - Tinder Swipe view </li>
+<li><a href="https://github.com/yuyakaido/CardStackView">Place Holder *</a> - Tinder Swipe view </li>
 
 ## Animation
 <li><a href="https://proandroiddev.com/complex-ui-animation-on-android-8f7a46f4aec4">Complex Animation **</a></li>
