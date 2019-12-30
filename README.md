@@ -67,7 +67,7 @@ Hard -  ***
 <li><a href="https://github.com/square/leakcanary">Leak Canary *</a> - Catch memory leaks as they occur</li>
 <li><a href="https://github.com/facebook/stetho">Stetho **</a> - Debug hierarchy and network from chrome</li>
 <li><a href="https://github.com/orhanobut/logger">Logger *</a> - Simple, pretty and powerful logger for android
-  <li><a href="https://proandroiddev.com/the-seven-actually-10-cardinal-sins-of-android-development-491d2f64c8e0?">General coding mistakes! *</a> - Simple, pretty and powerful logger for android
+  <li><a href="https://proandroiddev.com/the-seven-actually-10-cardinal-sins-of-android-development-491d2f64c8e0?">General coding mistakes! *</a> - How to avoid crashes, leaks and fragments lifecycle errors
 
 
 ## Testing 🧪
