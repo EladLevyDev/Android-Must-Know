@@ -55,6 +55,9 @@ Hard -  ***
 ## Firebase
 <li><a href="https://developer.android.com/guide/navigation/navigation-getting-started">Firebase *</a> - Quickly develop apps with database, server, push notification, anayltics and more with one library</li>
 
+## Kotlin Multiplatform
+<li><a href="https://github.com/joreilly/PeopleInSpace">Firebase *</a> - Kotlin Multiplatform project using Compose and SwiftUI</li>
+
 
 ## Utility
 <li><a href="https://developer.android.com/kotlin/ktx?gclid=Cj0KCQiA6IHwBRCJARIsALNjViX0l77hL2zOVnGwRtFCsf3nzKRHvLzU4u_wr96ET6c0mw0R5sxcIoUaAohEEALw_wcB">Android KTX *</a> - set of Kotlin extensions</li>
